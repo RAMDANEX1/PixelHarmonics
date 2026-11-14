@@ -1,2 +1,2 @@
 # PixelHarmonics
-A native Python script for audio steganography: embedding hidden image payloads directly into raw audio frames
+A Python tool for secure audio steganography: encrypt images with AES and embed them inside lossless WAV audio files using LSB manipulation.
